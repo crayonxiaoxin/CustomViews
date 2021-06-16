@@ -1,0 +1,3 @@
+include ':QQStepView'
+include ':app'
+rootProject.name = "CustomViews"

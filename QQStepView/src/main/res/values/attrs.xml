@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQStepView">
+        <attr name="qsvInnerColor" format="color" />
+        <attr name="qsvOuterColor" format="color" />
+        <attr name="qsvTextColor" format="color" />
+        <attr name="qsvTextSize" format="dimension" />
+        <attr name="qsvStrokeWidth" format="dimension" />
+    </declare-styleable>
+</resources>
